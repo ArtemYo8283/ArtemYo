@@ -13,7 +13,7 @@
     <a href="https://account.xbox.com/ru-ru/profile?gamertag=ArtemYo8283" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/xbox.svg" width="36"/></a>
     <a href="https://www.instagram.com/bndr_artem/" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/instagram.svg" width="36"/></a>
     <a href="https://twitter.com/YT_Artem_Yo" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/twitter.svg" width="36"/></a>
-    <a href="https://music.youtube.com/playlist?list=PL5z3n0enBrJpj9KvRA05pU65tSfS6KCIW&feature=share" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/3fbc893cced897bf39531f1fbffb5fe603e42ce6/Images/Youtube_Music.svg" width="36"/></a>
+    <a href="https://music.youtube.com/playlist?list=PL5z3n0enBrJqkksDPlVdKwHQJ-jCTT9PV&feature=share" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/3fbc893cced897bf39531f1fbffb5fe603e42ce6/Images/Youtube_Music.svg" width="36"/></a>
     <a href="https://www.linkedin.com/in/artem-bondar-586015198/" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/linkedin.svg" width="36"/></a>
 </p>
 </p>
