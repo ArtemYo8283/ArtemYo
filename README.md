@@ -2,7 +2,7 @@
 <p align="center">Welcome to my GitHub page!<br>
     I'm Artem, 20 year old student from <a href="https://en.wikipedia.org/wiki/Kharkiv" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/ukraine.svg" width="15"/></a><b> Kharkiv, Ukraine</b>.</p>
 <p align="center">
-    <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/ukraine.svg" width="15"/></a><b> Ukrainian </b>— Expert - National<br>
+    <a href="https://en.wikipedia.org/wiki/Ukrainian_language" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/ukraine.svg" width="15"/></a><b> Ukrainian </b>— Native<br>
     <a href="https://en.wikipedia.org/wiki/English_language" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/united-kingdom.svg" width="15"/></a><b> English </b>— B1 - Second main<br>
 </p>
 <h3 align="center">Social networks:</h3>
