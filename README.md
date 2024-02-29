@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">Social networks:</h3>
 <p align="center">
-    <a href="https://t.me/bndr_artem" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/Telegram_logo.svg" width="36"/></a>
+    <a href="https://t.me/bndrartem" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/Telegram_logo.svg" width="36"/></a>
    <a href="https://discord.gg/yT3bkAp3Ez" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/discord.svg" width="36"/></a>
     <a href="https://steamcommunity.com/id/ArtemYo/" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/Steam_icon_logo.svg" width="36"/></a>
     <a href="https://account.xbox.com/ru-ru/profile?gamertag=ArtemYo8283" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/xbox.svg" width="36"/></a>
