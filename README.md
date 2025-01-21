@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">Social networks:</h3>
 <p align="center">
-    <a href="mailto:bndr.artem.ua@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" width="36" alt="gmail logo"/></a>
+    <a href="mailto:bndr.artem.ua@gmail.com" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fru%2Flogo%2Fofficial-gmail-icon-2020-&psig=AOvVaw0Qwbg0wNg9uofn6X024Xbq&ust=1737561295896000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIit4bCWh4sDFQAAAAAdAAAAABAE" width="36" alt="gmail logo"/></a>
     <a href="https://t.me/bndrartem" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/Telegram_logo.svg" width="36"/></a>
     <a href="https://discord.gg/yT3bkAp3Ez" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/discord.svg" width="36"/></a>
     <a href="https://steamcommunity.com/id/ArtemYo/" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/Steam_icon_logo.svg" width="36"/></a>
