@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">Social networks:</h3>
 <p align="center">
-    <a href="mailto:bndr.artem.ua@gmail.com" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4vtphMtxRWfK6nO2CIbGfSETyEs79Dr6oPw&s" width="36" alt="gmail logo"/></a>
+    <a href="mailto:bndr.artem.ua@gmail.com" target="_blank"><img src="https://png.pngtree.com/png-vector/20230817/ourmid/pngtree-google-email-mailbox-icon-vector-png-image_9183279.png" width="36" alt="gmail logo"/></a>
     <a href="https://t.me/bndrartem" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/Telegram_logo.svg" width="36"/></a>
     <a href="https://discord.gg/yT3bkAp3Ez" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/discord.svg" width="36"/></a>
     <a href="https://steamcommunity.com/id/ArtemYo/" target="_blank"><img src="https://raw.githubusercontent.com/ArtemYo8283/ArtemYo/d7daf50025e6285e161fbb679061ba3e5d53e013/Images/Steam_icon_logo.svg" width="36"/></a>
